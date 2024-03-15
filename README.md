@@ -1,7 +1,7 @@
 - 👋 Hi, I’m M AYADI
-- 👀 I’m interested in Bug bounty Noob, Dev, Games
+- 👀 I’m interested in Bug bounty (Noob), Developer background, Gamer
 - 🌱 I’m currently learning bug bounty.
-- 📫 How to reach me [Twitter](https://twitter.com/ayadimX01)
+- 📫 How to reach me [Twitter](https://twitter.com/ayadim_)
 
 <!---
 ayadim/ayadim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
